@@ -1,0 +1,77 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 416,
+    "sha256": "159b85d8f7e782bab480f85d2e6f677db9316a2d8a4492098bffce2f6c696cd7"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 351,
+    "sha256": "b7934025283520d61896700d23f1c007085dce8317c318c46adac5f1be40d875"
+  },
+  {
+    "path": "DATA_SOURCES.md",
+    "size_bytes": 839,
+    "sha256": "95697ea6d8174dad63eed96e40859108a58a5bc36e8342fcb77ef019ec329757"
+  },
+  {
+    "path": "FIGURE_AND_IMAGE_PROVENANCE.md",
+    "size_bytes": 1096,
+    "sha256": "5c9dbe4e81973e2826524aeb54cc9e17da40143a06a7bfaaca32734eaa09cec9"
+  },
+  {
+    "path": "GITHUB_UPLOAD_MANIFEST.json",
+    "size_bytes": 2100,
+    "sha256": "65cc783ded6597a4450d8e8e627c665d8d600d605c807b6f37cdadce4b456cab"
+  },
+  {
+    "path": "LICENSE_NOTICE.md",
+    "size_bytes": 286,
+    "sha256": "e146423464e4fe67347bff5d921b0362798572dca7eaeb1a836197531cc3fbf6"
+  },
+  {
+    "path": "PUBLIC_RELEASE_AUDIT.json",
+    "size_bytes": 192,
+    "sha256": "e9fb51e0dfff6cb1a47b2a9103e39fb6a3f58864df0a886086ca6597d020aeab"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 1079,
+    "sha256": "4b02cb70d8c84cc23858b339b8a8060cff9dbe8e9f5efff09e8a852334db3b14"
+  },
+  {
+    "path": "REPOSITORY_STATUS.md",
+    "size_bytes": 162,
+    "sha256": "978a6d5d8ff730f869828417dc19002513917f2f3e68624cd7acdcdb1392f694"
+  },
+  {
+    "path": "RESULTS_SUMMARY.md",
+    "size_bytes": 584,
+    "sha256": "bf5ef458da203cd561bcc8dd71f9a653aa486ceb1574c2213f59f2c84bdb5014"
+  },
+  {
+    "path": "SECURITY_AND_PRIVACY.md",
+    "size_bytes": 400,
+    "sha256": "24026c5e71d0558746cadd526799cc780edf419d12768835d2b6c782c0463581"
+  },
+  {
+    "path": "code/README.md",
+    "size_bytes": 350,
+    "sha256": "2bbde21c8be78b56e460647d1308907c28348a86dfcad789f9547a34602d401f"
+  },
+  {
+    "path": "code/ingest_2025_zoonoses.py",
+    "size_bytes": 5747,
+    "sha256": "7afddbce535bbecb7b6b8ad9266c47836c8a0e88900921406a695aa0300ca583"
+  },
+  {
+    "path": "docs/PRESPECIFIED_FOLLOWUP_PROTOCOL.md",
+    "size_bytes": 550,
+    "sha256": "9559ed333b5ba30b0fc506d4204de23fb0b3872fd97956770718c0d558d7063f"
+  },
+  {
+    "path": "tools/public_release_audit.py",
+    "size_bytes": 1065,
+    "sha256": "8db1df43a55c03496e1867cb868829e9d50494730b8fe39d4033ee6ffb193ef6"
+  }
+]
